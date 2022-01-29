@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently doing B.Tech Computer Science and Engineering
-- 👯 I’m looking to collaborate on web as well as mobile applications
+- 🌱 I am currently doing B.Tech Computer Science and Engineering
+- 👯 I am looking to collaborate on web as well as mobile applications
 - 📕 I love crime thrillers
 - 💬 Ask me anything about LFC⚽ 
 - 📫 You can reach me on yoonuskottai@gmail.com
