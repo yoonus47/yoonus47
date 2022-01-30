@@ -4,7 +4,7 @@
 - 🌱 I am currently doing B.Tech Computer Science and Engineering
 - 👯 I am looking to collaborate on web as well as mobile applications
 - 📕 I love crime thrillers
-- 💬 Ask me anything about LFC⚽ 
+- 💬 Ask me anything related to LFC⚽ 
 - 📫 You can reach me on yoonuskottai@gmail.com
 - ⚡ Fun fact: There are two sides on a coin:)
 
