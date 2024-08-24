@@ -1,16 +1,16 @@
 # Hi there 👋
 
-Welcome to my GitHub profile. I am Muhammad Yoonus, a passionate B.Tech Computer Science and Engineering graduate with a keen interest in AI/ML, LLMs, and NLP in general. I like reading research papers, and listening to podcasts on AI and how things will play out in the future. \
+Welcome to my GitHub profile. I am Muhammad Yoonus, a passionate Master's of AI student with a keen interest in AI/ML, LLMs, and NLP in general. I like reading research papers, and listening to podcasts on AI and how things will play out in the future. \
 I am also Full Stack Web and Mobile App developer. \
-Excited to share my projects, ideas, and contributions with the GitHub community.
+Looking forward to share my projects, ideas, and contributions with the GitHub community:)
 
 ## About Me
 
-- 💻 B.Tech in Computer Science and Engineering
+- 💻 Master of AI candidate, Bachelor of Technology in Computer Science and Engineering
 - 🧠 AI/ML Enthusiast
-- 📚 Focus on LLMs (Large Language Models), NLP (Natural Language Processing)
-- 🌐 Full Stack Web and Mobile App Developer (Flutter)
-- ⚽️ Football lover
+- 📚 Interested on LLMs (Large Language Models), NLP (Natural Language Processing)
+- 🌐 Full Stack Web and Mobile App Developer (kinda)
+- ⚽️ Football lover (It's not soccer!)
 
 ## Projects
 
