@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Muhammad Yoonus
+# Hi there 👋 I'm Yoonus!
 
 ### AI Engineer | Data Scientist | Content Creator
 
@@ -12,6 +12,15 @@ I specialize in building **RAG (Retrieval Augmented Generation) systems**, optim
 * 💼 **Ex-AI Engineer** at Gieom Business Solutions (Built RAG systems for Tier-1 Banks).
 * 📹 **YouTuber** at **[@Yoonus93](https://youtube.com/@Yoonus93)** where I decode AI concepts.
 * ⚽️ **Football lover** (It's still not soccer!).
+* ♛ **Chess Piece Collector** (1200 elo).
+
+## 📺 Latest on YouTube
+
+I believe in learning by teaching. Check out my channel **[@Yoonus93](https://youtube.com/@Yoonus93)** where I cover:
+* [Why China’s DeepSeek AI crashed the US Big Tech!](https://www.youtube.com/shorts/RcnHjHDIeTc)
+* [How Tesla Autopilot Sees and Drives Itself!](https://www.youtube.com/shorts/lg_ZStLDPTw)
+* [AI Agents: From Chatbots to Autonomous Systems](https://www.youtube.com/shorts/J3F8Hw7Fuc0)
+* [What is RAG in Gen AI?](https://www.youtube.com/shorts/NaWCZWGUTgs)
 
 ## 🛠️ Tech Stack
 
@@ -49,11 +58,6 @@ Here are a few projects I've built and deployed:
 * **Tech:** Flutter, Firebase.
 * **Description:** A cross-platform mobile application for travel planning, featuring real-time database integration and secure authentication.
 
-## 📺 Latest on YouTube
-
-I believe in learning by teaching. Check out my channel **[@Yoonus93](https://youtube.com/@Yoonus93)** where I cover:
-* Data Science Concepts
-* AI Future Trends
 
 ## 📫 Connect with Me
 
