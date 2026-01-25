@@ -11,6 +11,7 @@ Welcome to my profile! [cite_start]I am a **Master of Artificial Intelligence gr
 * [cite_start]🎓 **Master of AI** from RMIT University & **B.Tech in Computer Science**[cite: 153, 155, 157].
 * [cite_start]💼 **Ex-AI Engineer** at Gieom Business Solutions (Built RAG systems for Tier-1 Banks)[cite: 140, 142].
 * [cite_start]📹 **YouTuber** at **[@Yoonus93](https://youtube.com/@Yoonus93)** where I decode AI concepts[cite: 123, 188].
+* [cite_start]🏏 **Vice Captain** of the RMIT Cricket Club (2025 Summer Season)[cite: 183, 185].
 * [cite_start]⚽️ **Football lover** (It's still not soccer!)[cite: 116].
 
 ## 🛠️ Tech Stack
@@ -52,8 +53,9 @@ Here are a few projects I've built and deployed:
 ## 📺 Latest on YouTube
 
 I believe in learning by teaching. Check out my channel **[@Yoonus93](https://youtube.com/@Yoonus93)** where I cover:
-* Data Science Concepts
-* AI Future Trends
+* Data Science Tutorials
+* AI Concepts & Trends
+* Student Life in Australia
 [cite_start][cite: 123, 187, 188]
 
 ## 📫 Connect with Me
