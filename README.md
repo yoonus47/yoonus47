@@ -52,9 +52,8 @@ Here are a few projects I've built and deployed:
 ## 📺 Latest on YouTube
 
 I believe in learning by teaching. Check out my channel **[@Yoonus93](https://youtube.com/@Yoonus93)** where I cover:
-* Data Science Tutorials
-* AI Concepts & Trends
-* Student Life in Australia
+* Data Science Concepts
+* AI Future Trends
 
 ## 📫 Connect with Me
 
