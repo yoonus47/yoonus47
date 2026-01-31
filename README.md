@@ -11,8 +11,8 @@ I specialize in building **RAG (Retrieval Augmented Generation) systems**, optim
 * 🎓 **Master of AI** from RMIT University & **B.Tech in Computer Science**.
 * 💼 **Ex-AI Engineer** at Gieom Business Solutions (Built RAG systems for Tier-1 Banks).
 * 📹 **YouTuber** at **[@Yoonus93](https://youtube.com/@Yoonus93)** where I decode AI concepts.
-* ⚽️ **Football lover** (It's still not soccer!).
-* ♛ **Chess Piece Collector** (1200 elo).
+* ⚽️ **Football Fan!** (It's still not soccer!).
+* ♛ **Chess Piece Collector 😁** (1200 elo:).
 
 ## 📺 Latest on YouTube
 
