@@ -15,19 +15,27 @@ Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **
 
 ## 🔥 Currently Working On
 
-### AI Support Agent (Docs deflection + ticket escalation)
-**Repo:** https://github.com/yoonus47/AI_Support_Agent  
-**Tech:** Node.js, TypeScript, LangChain, Llama 3.x (70B via Groq), Zod
+## ⭐ AI Support Agent (Docs Deflection + Ticket Escalation)
 
-A lightweight customer support agent that acts like a first line support rep:
-- answers from docs first so it does not open tickets unnecessarily
-- checks user context (Free vs VIP) before escalating
-- raises a ticket only when it makes sense, with priority based on plan and urgency
+**Repo:** https://github.com/yoonus47/AI_Support_Agent
 
-What I focused on while building it:
-- a router style flow where the LLM decides the next step based on an SOP
-- tool safety using Zod schemas to catch bad or missing parameters
-- kept it simple to run and review, with in-memory chat history
+![AI Support Agent UI](https://raw.githubusercontent.com/yoonus47/AI_Support_Agent/main/Screenshot.png)
+
+A “production-style” support assistant that behaves like a real Tier-1 support rep:
+
+- **Docs-first deflection:** answers from internal docs whenever possible  
+- **Context-aware behavior:** checks user plan (Free vs Pro/VIP) before escalating  
+- **Ticket escalation:** creates a ticket only when needed, with priority based on rules  
+
+### What makes this interesting for AI Engineering
+- **Tool-using agent** (LangChain) with structured tool inputs (Zod)  
+- **Backend API + Web UI** (not just a CLI demo)  
+- Built to be extensible for **streaming**, **observability/tool traces**, and **RAG upgrades**  
+
+### Tech
+- **Backend:** Node.js, TypeScript, LangChain, Express, Groq (Llama 3.x 70B), Zod  
+- **Frontend:** Next.js (App Router), TypeScript, TailwindCSS  
+- **DevOps:** Docker/Compose support (optional)
 
 ## 💻 Featured Projects
 
