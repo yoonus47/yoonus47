@@ -21,7 +21,7 @@ Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **
 
 ![AI Support Agent UI](https://raw.githubusercontent.com/yoonus47/AI_Support_Agent/main/Screenshot.png)
 
-A “production-style” support assistant that behaves like a real Tier-1 support rep:
+A production-style support assistant that behaves like a real Tier-1 support rep:
 
 - **Docs-first deflection:** answers from internal docs whenever possible  
 - **Context-aware behavior:** checks user plan (Free vs Pro/VIP) before escalating  
@@ -71,7 +71,7 @@ Cross-platform travel planning app with auth and real-time database integration.
 - React, Node.js, HTML, CSS, Flask
 - Flutter, React Native
 
-## 📺 Latest on YouTube
+## 📺 Checkout my Youtube Channel where I breakdown some technical stuff about AI 
 - [Why China’s DeepSeek AI crashed the US Big Tech!](https://www.youtube.com/shorts/RcnHjHDIeTc)
 - [How Tesla Autopilot Sees and Drives Itself!](https://www.youtube.com/shorts/lg_ZStLDPTw)
 - [AI Agents: From Chatbots to Autonomous Systems](https://www.youtube.com/shorts/J3F8Hw7Fuc0)
