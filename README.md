@@ -2,14 +2,13 @@
 
 ### AI Engineer | Data Scientist | Content Creator
 
-Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software. Checkout my [YouTube Channel](www.youtube.com/@Yoonus93) where I breakdown some of hottest topics in AI like RAG and AI Agents. 
+Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software. Checkout my [YouTube Channel](https://www.youtube.com/@Yoonus93) where I've made videos breaking down some of hottest topics in AI like RAG. 
 
 Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **LLM agents**, and deploying ML systems in a way that is practical.
 
 ## 🚀 About Me
 - 🎓 **Master of AI** (RMIT University) + **B.Tech in Computer Science**
 - 💼 Ex AI Engineer at **Gieom Business Solutions** (built RAG systems for Tier-1 banks)
-- 📹 YouTube: **[@Yoonus93](https://youtube.com/@Yoonus93)** where I explain AI concepts simply
 - ⚽️ Football fan (still not soccer)
 - ♛ Chess piece collector 😁 (around 1200 elo)
 
