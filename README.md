@@ -2,9 +2,9 @@
 
 ### AI Engineer | Data Scientist | Content Creator
 
-Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software.
+Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software. Checkout my [YouTube Channel](www.youtube.com/@Yoonus93) where I breakdown some of hottest topics in AI like RAG and AI Agents. 
 
-Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **LLM agents**, and deploying ML systems in a way that is practical to maintain.
+Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **LLM agents**, and deploying ML systems in a way that is practical.
 
 ## 🚀 About Me
 - 🎓 **Master of AI** (RMIT University) + **B.Tech in Computer Science**
@@ -71,7 +71,7 @@ Cross-platform travel planning app with auth and real-time database integration.
 - React, Node.js, HTML, CSS, Flask
 - Flutter, React Native
 
-## 📺 Checkout my Youtube Channel where I breakdown some technical stuff about AI 
+## 📺 Checkout my Youtube Channel where I make videos about AI
 - [Why China’s DeepSeek AI crashed the US Big Tech!](https://www.youtube.com/shorts/RcnHjHDIeTc)
 - [How Tesla Autopilot Sees and Drives Itself!](https://www.youtube.com/shorts/lg_ZStLDPTw)
 - [AI Agents: From Chatbots to Autonomous Systems](https://www.youtube.com/shorts/J3F8Hw7Fuc0)
