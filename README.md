@@ -18,7 +18,7 @@ Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **
 
 **Repo:** https://github.com/yoonus47/AI_Support_Agent
 
-![AI Support Agent UI](https://raw.githubusercontent.com/yoonus47/AI_Support_Agent/main/Screenshot.png)
+![AI Support Agent UI](https://raw.githubusercontent.com/yoonus47/AI_Support_Agent/main/demo.gif)
 
 A production-style support assistant that behaves like a real Tier-1 support rep:
 
