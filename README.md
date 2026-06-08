@@ -2,7 +2,7 @@
 
 ### AI Engineer | Data Scientist | Content Creator
 
-Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software. Checkout my [YouTube Channel](https://www.youtube.com/@Yoonus93) where I've made videos breaking down some of hottest topics in AI like RAG. 
+Welcome to my profile. I am a **Master of Artificial Intelligence graduate from RMIT University,** based in Melbourne. I enjoy taking ideas from papers and turning them into working software. Checkout my [YouTube Channel](https://www.youtube.com/@Yoonus93) where I've made videos breaking down some of hottest topics in AI such as RAG (Retreival Augmented Generation). 
 
 Alot of my current work sits around **RAG (Retrieval Augmented Generation)**, **LLM agents**, and deploying ML systems in a way that is practical.
 
@@ -77,7 +77,7 @@ Cross-platform travel planning app with auth and real-time database integration.
 - [What is RAG in Gen AI?](https://www.youtube.com/shorts/NaWCZWGUTgs)
 
 ## 📫 Connect with Me
-I’m open to AI Engineer and Data Scientist roles, collaborations, or just a chat.
+I am open to AI Engineer and Data Scientist roles, collaborations, or just a chat.
 
 - **LinkedIn:** [Muhammad Yoonus](https://www.linkedin.com/in/muhammad-yoonus/)
 - **Email:** [yoonuskottai@gmail.com](mailto:yoonuskottai@gmail.com)
